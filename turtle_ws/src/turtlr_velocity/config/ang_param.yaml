@@ -1,0 +1,10 @@
+#符合twist的消息格式
+turtle_velocity:
+  linear:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  angular:
+    x: 0.0
+    y: 0.0
+    z: 1.0
